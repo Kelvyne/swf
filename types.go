@@ -1,18 +1,16 @@
 package swf
 
-// These represent code of handled Swf tags
-const (
-	// CodeTagEnd is the code representing a Tag of type End
-	CodeTagEnd = 0
-	// CodeTagDoABC is the code representing a Tag of type DoABC
-	CodeTagDoABC = 82
-)
-
 // These represent possible Swf compression algorithm
 const (
 	CompressionNone = iota
 	CompressionZlib
-	CompressionLZMA
+	CompressionLZMA // Currently not implemented
+)
+
+// These represent code of handled Swf tags
+const (
+	CodeTagEnd   = 0  // CodeTagEnd is the code representing a Tag of type End
+	CodeTagDoABC = 82 // CodeTagDoABC is the code representing a Tag of type DoABC
 )
 
 // Swf represents a Swf file deserialized
