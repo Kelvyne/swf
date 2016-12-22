@@ -1,5 +1,6 @@
 # go-swf
 
+[![GoDoc](https://godoc.org/github.com/Kelvyne/go-swf?status.svg)](https://godoc.org/github.com/Kelvyne/go-swf)
 [![Build
 Status](https://travis-ci.org/Kelvyne/go-swf.svg?branch=master)](https://travis-ci.org/Kelvyne/go-swf)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kelvyne/go-swf)](https://goreportcard.com/report/github.com/kelvyne/go-swf)
