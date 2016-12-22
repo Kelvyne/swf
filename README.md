@@ -1,6 +1,7 @@
 # go-swf
 
-[![Build Status](https://travis-ci.com/Kelvyne/go-swf.svg?token=4hcDvc75wyCvjsysDuCx&branch=master)](https://travis-ci.com/Kelvyne/go-swf)
+[![Build
+Status](https://travis-ci.org/Kelvyne/go-swf.svg?branch=master)](https://travis-ci.org/Kelvyne/go-swf)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kelvyne/go-swf)](https://goreportcard.com/report/github.com/kelvyne/go-swf)
 [![Go Coverage](http://gocover.io/_badge/github.com/kelvyne/go-swf)](https://gocover.io/github.com/kelvyne/go-swf)
 
