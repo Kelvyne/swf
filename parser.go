@@ -1,4 +1,3 @@
-// Package swf contains utilities to read Shockwave Flash Format files
 package swf
 
 import (
