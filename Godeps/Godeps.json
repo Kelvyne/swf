@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/kelvyne/swf",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Deps": [
+		{
+			"ImportPath": "github.com/icza/bitio",
+			"Rev": "7db4715789cd767e852b4b09449f18b0798fd0cd"
+		}
+	]
+}
