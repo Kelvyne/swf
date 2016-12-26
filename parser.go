@@ -30,6 +30,11 @@ func newParser(origin io.ReadSeeker) *parser {
 	return &parser{NewReader(origin), origin}
 }
 
+// Parse creates a Parser and parses the given input
+func Parse(origin io.ReadSeeker) (Swf, error) {
+	return newParser(origin).Parse()
+}
+
 // NewParser provides a simple way to create a Swf file
 func NewParser(origin io.ReadSeeker) Parser {
 	return newParser(origin)
