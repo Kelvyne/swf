@@ -1,10 +1,10 @@
 # go-swf
 
-[![GoDoc](https://godoc.org/github.com/Kelvyne/go-swf?status.svg)](https://godoc.org/github.com/Kelvyne/go-swf)
+[![GoDoc](https://godoc.org/github.com/Kelvyne/swf?status.svg)](https://godoc.org/github.com/Kelvyne/swf)
 [![Build
-Status](https://travis-ci.org/Kelvyne/go-swf.svg?branch=master)](https://travis-ci.org/Kelvyne/go-swf)
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelvyne/go-swf)](https://goreportcard.com/report/github.com/kelvyne/go-swf)
-[![Go Coverage](http://gocover.io/_badge/github.com/kelvyne/go-swf)](https://gocover.io/github.com/kelvyne/go-swf)
+Status](https://travis-ci.org/Kelvyne/swf.svg?branch=master)](https://travis-ci.org/Kelvyne/swf)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kelvyne/swf)](https://goreportcard.com/report/github.com/kelvyne/swf)
+[![Go Coverage](http://gocover.io/_badge/github.com/kelvyne/swf)](https://gocover.io/github.com/kelvyne/swf)
 
 Package swf contains utilities to read Shockwave Flash Format files
 
