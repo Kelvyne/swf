@@ -54,14 +54,6 @@ func (p *parser) Parse() (s Swf, err error) {
 		return
 	}
 	s.Header = header
-	if s.Header.Compression != CompressionNone {
-		defer func() {
-			if err == nil {
-				err = p.origin.(io.ReadCloser).Close()
-			}
-		}()
-	}
-
 	tags, err := p.ParseTags()
 	if err != nil {
 		return
